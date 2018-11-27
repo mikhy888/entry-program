@@ -1,0 +1,32 @@
+{
+    "posts": [
+        {
+            "content": {
+                "id": 1,
+                "title": "savari girigiri",
+                "description": "lalettan"
+            }
+        },
+        {
+            "content": {
+                "id": 2,
+                "title": "annan thampi",
+                "description": "mammookka"
+            }
+        },
+        {
+            "content": {
+                "id": 3,
+                "title": "meesha madhavan",
+                "description": "dileep",
+                "address": {
+                    "address1": "727 Kivett St.",
+                    "city": "Burlington",
+                    "state_prov": "NC",
+                    "postal_code": "27215",
+                    "country": "US"
+                }
+            }
+        }
+    ]
+}
